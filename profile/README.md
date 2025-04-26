@@ -12,11 +12,13 @@ Accesserty is committed to creating a web space rooted in information equity, wh
 Build an information ecosystem where website experiences are transparent, improvement mechanisms are visible, and user participation is simple and accessible.
 
 ## We provide
-### Accesserty Feedback
+### Accesserty Signal
+[Chrome Extension](https://chromewebstore.google.com/detail/accesserty-signal/jabgpbgdmhdmibhogmcjfinnkcngcelc)
 Starts from search results — highlighting which websites are maintaining accessible experiences. Users can easily report issues and become part of the improvement process.
 
 ### Accesserty UI Kit  (in development)
 Offers accessibility-ready Web Components that work across frameworks — quick to integrate, flexible to customize, and standards-compliant.
 
-### Accesserty DevCheck (in development)
-Helps partner websites automatically scan for experience issues, organize feedback, track resolutions, and foster a culture of long-term maintenance.
+### Accesserty DevCheck 
+[Chrome Extension](https://chromewebstore.google.com/detail/accesserty-devcheck/ompbhahmipenipgiiiehbkiibkonoeec)
+Helps simulate real user limitations and identify accessibility issues early in development or during audits — all without needing to be an expert in WCAG.
