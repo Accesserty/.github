@@ -13,12 +13,12 @@ Build an information ecosystem where website experiences are transparent, improv
 
 ## We provide
 ### Accesserty Signal
-[Chrome Extension](https://chromewebstore.google.com/detail/accesserty-signal/jabgpbgdmhdmibhogmcjfinnkcngcelc)
-Starts from search results — highlighting which websites are maintaining accessible experiences. Users can easily report issues and become part of the improvement process.
+[Chrome Extension](https://chromewebstore.google.com/detail/accesserty-signal/jabgpbgdmhdmibhogmcjfinnkcngcelc)  
+Helps users identify which websites are actively working to improve their user experience — starting directly from the Google Search results page.
 
 ### Accesserty UI Kit  (in development)
-Offers accessibility-ready Web Components that work across frameworks — quick to integrate, flexible to customize, and standards-compliant.
+Provides developers with accessibility-ready Web Components that work across frameworks — quick to integrate, flexible to customize, and standards-compliant.
 
 ### Accesserty DevCheck 
-[Chrome Extension](https://chromewebstore.google.com/detail/accesserty-devcheck/ompbhahmipenipgiiiehbkiibkonoeec)
+[Chrome Extension](https://chromewebstore.google.com/detail/accesserty-devcheck/ompbhahmipenipgiiiehbkiibkonoeec)  
 Helps simulate real user limitations and identify accessibility issues early in development or during audits — all without needing to be an expert in WCAG.
