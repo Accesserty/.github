@@ -25,6 +25,6 @@ Helps simulate real user limitations and identify accessibility issues early in 
 A lightweight script for observing website friction and detectable accessibility risks.
 
 ### Accesserty UI Kit  
-[repo](https://github.com/Accesserty/UI-Kit)
-Provides developers with accessibility-ready Web Components that work across frameworks — quick to integrate, flexible to customize, and standards-compliant.
+[repo](https://github.com/Accesserty/UI-Kit)  
+Provides developers with accessibility-ready Web Components that work across frameworks — quick to integrate, flexible to customize, and standards-compliant.  
 
